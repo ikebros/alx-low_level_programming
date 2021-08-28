@@ -11,11 +11,7 @@
 
 2-Assembler: generates the assembly code of a C code and save it in an output file.
 
-3. Name
-mandatory
-Write a script that compiles a C file and creates an executable named cisfun.
-
-The C file name will be saved in the variable $CFILE
+3-name: compiles a C file and creates an executable named cisfun.
 
 4. Hello, puts
 mandatory
