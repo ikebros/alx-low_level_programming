@@ -1,6 +1,7 @@
-<h1> 0x00-hello_word </h1><hr>
+<h1> 0x00-hello_word </h1>
 
-<p>Scripts and their Functions </p>
+<p><strong>Scripts and their Functions</strong> </p>
+<hr>
 
 
 
@@ -8,13 +9,7 @@
 
 1-Compiler: compiles a C file but does not link.
 
-2. Assembler
-mandatory
-Write a script that generates the assembly code of a C code and save it in an output file.
-
-The C file name will be saved in the variable $CFILE
-The output file should be named the same as the C file, but with the extension .s instead of .c.
-Example: if the C file is main.c, the output file should be main.s
+2-Assembler: generates the assembly code of a C code and save it in an output file.
 
 3. Name
 mandatory
